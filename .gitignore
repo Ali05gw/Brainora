@@ -1,0 +1,9 @@
+/build/
+app/build/
+.gradle/
+*.mp4
+*.onnx
+*.apk
+*.flat
+*.ap_
+.idea/
